@@ -1,6 +1,7 @@
 Dataset link: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset/data
 
 
+
 1. Introduction
 1.1 Overview
 Medical imaging plays a crucial role in diagnosing diseases like pneumonia, tuberculosis (TB), and lung cancer. However, raw X-ray images often suffer from noise, poor contrast, and overlapping structures, making analysis difficult. This study explores various image processing methods to improve X-ray quality, extract meaningful features, and segment important regions.
